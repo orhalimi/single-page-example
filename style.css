@@ -1,10 +1,14 @@
+.header {
+    background-color: ghostwhite;
+}
+
 .page {
     height: 1000px;
 }
 
 #page1 {
     background-color: ghostwhite;
-    height: 500px;
+    height: 600px;
     padding: 70px 0px 0px 0px;
 }
 
@@ -14,21 +18,63 @@
 
 #page3 {
     background-color: darkcyan;
-    
 }
 
-span{
-    margin-left:80px;
+.page1-container {
+	left: 5%;
+    bottom: -17%;
 }
 
-#page1-writing {
-	font-size: 60px;
+.big-font {
+    font-size: 60px;
 }
 
-transperent-low{
+transperent-low {
     opacity: 0.7;
 }
 
-.transperent-high{
+.transperent-high {
     opacity: 0.6;
+}
+
+.cool-font{
+    font-family: 'Pangolin', cursive;
+}
+
+.top-offset {
+    top: 150px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.margin-bottom{
+    margin-bottom: 15%;
+}
+.picture-block{
+    padding-right: 21%;
+}
+.pictures-row{
+    padding-left: 27%;
+    margin-bottom: 4%;
+}
+
+.flote-left{
+    float: left;
+}
+.forms-group-style{
+    width: 30%;
+     
+}
+
+.forms-style{
+    margin-bottom: 9%;
+    background-color: transparent;
+    border: none;
+    border-bottom:1px solid gray;
+    outline: none;
+    outline-style: none;
+    display: block;
+    width: 75%;
 }
