@@ -68,6 +68,16 @@ transperent-low {
 
 .forms-group-style {
     width: 30%;
+   
+}
+
+.btn-hover {
+    border-radius: 10px;
+    background-color: lightskyblue;
+    color: white;
+    position: absolute;
+
+    
 }
 
 .forms-style {
@@ -91,6 +101,11 @@ transperent-low {
     border-style: outset;
     border-color: darkgray;
     background-color: thistle;
-    
+}
 
+.js-scroller span:hover {
+    border-radius: 10px;
+    background-color: lightskyblue;
+    color: white;
+    position: absolute;
 }
